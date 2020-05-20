@@ -1,0 +1,10 @@
+{
+  "name": "Web_lab4_c",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode development"
+  },
+  "dependencies": {
+    
+  }
+}
