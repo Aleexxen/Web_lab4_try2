@@ -5,7 +5,7 @@ export async function pokemon() {
 
     function pokemonInfo(value) {
         let template = ''
-        template += `<img style="width: 300px" src="${value.sprites.front_default}">`
+        template += `<img style="width: 200px" src="${value.sprites.front_default}">`
         template += `<h3>${value.name}<h3/>`
         template += `
         <h5>Abilities</h5>
